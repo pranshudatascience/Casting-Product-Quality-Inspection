@@ -4,21 +4,23 @@ This dataset is of casting manufacturing product.Casting is a manufacturing proc
 
 There are many types of defect in casting like blow holes, pinholes, burr, shrinkage defects, mould material defects, pouring metal defects, metallurgical defects, etc.
 
-he dataset contains total 7348 image data. These all are the size of (300*300) pixels grey-scaled images. In all images, augmentation already applied.
+This dataset is of casting manufacturing products. Casting is a manufacturing process in which a liquid material is usually poured into a mould, which contains a hollow cavity of the desired shape, and then allowed to solidify.
 
-Also uploaded images size of 512x512 grayscale. This data set is without Augmentation. This contains 519 okfront and 781 deffront impeller images.
+There are many types of defects in casting like blow holes, pinholes, burr, shrinkage defects, mould material defects, pouring metal defects, metallurgical defects, etc.
+
+The dataset contains a total of 7348 image data. These all are the size of (300*300) pixels grey-scaled images. In all images, augmentation has already been applied.
+
+Also uploaded images size of 512x512 grayscale. This data set is without Augmentation. This contains 519 ok front and 781 def front impeller images.
 
 For capturing these images requires stable lighting, for this we made a special arrangement.
 
 there are mainly two categories:-
-1) Defective
-2)Ok
 
-data already split for training and testing into two folders.
-Both train and test folder contains deffront and okfront subfolders.
+Defective 2)Ok
 
-train:- deffront have 3758 and okfront have 2875 images
-test:- deffront have:- deffront have 453 and ok_front have 262 images
+data already split for training and testing into two folders. Both train and test folder contains deffront and okfront subfolders.
+
+train:- deffront have 3758 and okfront have 2875 images test:- deffront have:- deffront have 453 and ok_front have 262 images
 
 
 some of the Images :
